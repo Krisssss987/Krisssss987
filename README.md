@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev Projects<br>👯 I’m looking to collaborate on Design and Devlopment Projects<br>🤝 I’m looking for help with Developing 3.js projects<br>🌱 I’m currently learning Java Development<br>💬 Ask me about Full Stack development<br>⚡ Fun fact: I can do anything
+🔭 I’m currently working on Web Dev Projects<br>👯 I’m looking to collaborate on Design and Devlopment Projects<br>🌱 I’m currently learning Java Development<br>💬 Ask me about Full Stack development<br>⚡ Fun fact: I can do anything
 
 
 ## 🌐 Socials:
